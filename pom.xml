@@ -5,11 +5,4 @@
   <artifactId>my-world</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <dependencies>
-    <dependency>
-      <groupId>org.spmlingam</groupId>
-      <artifactId>context</artifactId>
-      <version>1.0.1.RELEASE</version>
-    </dependency>
-  </dependencies>
 </project>
